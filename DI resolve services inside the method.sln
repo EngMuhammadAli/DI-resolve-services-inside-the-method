@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI resolve services inside the method", "DI resolve services inside the method\DI resolve services inside the method.csproj", "{8F5BCA65-6A8D-431E-83E0-E561B0B4A9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5BCA65-6A8D-431E-83E0-E561B0B4A9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5BCA65-6A8D-431E-83E0-E561B0B4A9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5BCA65-6A8D-431E-83E0-E561B0B4A9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5BCA65-6A8D-431E-83E0-E561B0B4A9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AE1D80-3769-4B0B-AA18-5EEC7E6DAAA3}
+	EndGlobalSection
+EndGlobal
