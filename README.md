@@ -1,0 +1,1 @@
+In ASP.NET Core, dependency injection is typically done through constructor injection, but there are cases where you might want to inject dependencies directly into a method. While this is not the most common pattern, it can be achieved using the IServiceProvider to resolve services inside the method. Here’s how you can do it:
